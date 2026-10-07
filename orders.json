@@ -1,0 +1,41 @@
+[
+  {
+    "order_id": "ORD-2026-001",
+    "date": "2026-10-05",
+    "customer": {
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com"
+    },
+    "currency": "USD",
+    "items": [
+      {
+        "product_name": "Python Developer Handbook",
+        "net_price_usd": 45.00,
+        "quantity": 1
+      },
+      {
+        "product_name": "Mechanical Keyboard",
+        "net_price_usd": 120.00,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-002",
+    "date": "2026-10-06",
+    "customer": {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com"
+    },
+    "currency": "USD",
+    "items": [
+      {
+        "product_name": "Ergonomic Mouse",
+        "net_price_usd": 65.50,
+        "quantity": 1
+      }
+    ]
+  }
+]
